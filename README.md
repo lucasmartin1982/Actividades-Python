@@ -1,2 +1,2 @@
-# Actividades-Python
-Repositorio de actividades de Python
+# Actividades de Python 
+Repositorio de actividades de Python reeditado
