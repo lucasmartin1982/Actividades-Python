@@ -3,7 +3,7 @@
         {
             "numero_habitacion": 1,
             "tipo_habitacion": "single",
-            "nombre_cliente": "Lucas",
+            "nombre_cliente": "",
             "fecha_ingreso": "",
             "fecha_salida": ""
         },
