@@ -1,0 +1,67 @@
+{
+    "id": [
+        {
+            "numero_habitacion": 1,
+            "tipo_habitacion": "single",
+            "nombre_cliente": "Lucas",
+            "fecha_ingreso": "",
+            "fecha_salida": ""
+        },
+        {
+            "numero_habitacion": 2,
+            "tipo_habitacion": "single",
+            "nombre_cliente": "",
+            "fecha_ingreso": "",
+            "fecha_salida": ""
+        },
+        {
+            "numero_habitacion": 3,
+            "tipo_habitacion": "single",
+            "nombre_cliente": "",
+            "fecha_ingreso": "",
+            "fecha_salida": ""
+        },
+        {
+            "numero_habitacion": 4,
+            "tipo_habitacion": "doble",
+            "nombre_cliente": "",
+            "fecha entrada": "",
+            "fecha salida": ""
+        },
+        {
+            "numero_habitacion": 5,
+            "tipo_habitacion": "doble",
+            "nombre_cliente": "",
+            "fecha entrada": "",
+            "fecha salida": ""
+        },
+        {
+            "numero_habitacion": 6,
+            "tipo_habitacion": "doble",
+            "nombre_cliente": "",
+            "fecha entrada": "",
+            "fecha salida": ""
+        },
+        {
+            "numero_habitacion": 7,
+            "tipo_habitacion": "triple",
+            "nombre_cliente": "",
+            "fecha entrada": "",
+            "fecha salida": ""
+        },
+        {
+            "numero_habitacion": 8,
+            "tipo_habitacion": "triple",
+            "nombre_cliente": "",
+            "fecha entrada": "",
+            "fecha salida": ""
+        },
+        {
+            "numero_habitacion": 9,
+            "tipo_habitacion": "triple",
+            "fecha_ingreso": "",
+            "fecha_salida": "",
+            "nombre_cliente": "juan"
+        }
+    ]
+}
