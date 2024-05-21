@@ -1,0 +1,178 @@
+[
+    {
+        "nombre": "Cien a\u00f1os de soledad",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "a\u00f1o_publicacion": "1967",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "a\u00f1o_publicacion": "1605",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "1984",
+        "autor": "George Orwell",
+        "a\u00f1o_publicacion": "1949",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "a\u00f1o_publicacion": "1813",
+        "disponible": "False",
+        "unidades": "2"
+    },
+    {
+        "nombre": "En busca del tiempo perdido",
+        "autor": "Marcel Proust",
+        "a\u00f1o_publicacion": "1913",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "Ulises",
+        "autor": "James Joyce",
+        "a\u00f1o_publicacion": "1922",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "Moby-Dick",
+        "autor": "Herman Melville",
+        "a\u00f1o_publicacion": "1851",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "El gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "a\u00f1o_publicacion": "1925",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "Crimen y castigo",
+        "autor": "Fyodor Dostoevsky",
+        "a\u00f1o_publicacion": "1866",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "El se\u00f1or de los anillos",
+        "autor": "J.R.R. Tolkien",
+        "a\u00f1o_publicacion": "1954",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "To Kill a Mockingbird",
+        "autor": "Harper Lee",
+        "a\u00f1o_publicacion": "1960",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "Pride and Prejudice",
+        "autor": "Jane Austen",
+        "a\u00f1o_publicacion": "1813",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "The Catcher in the Rye",
+        "autor": "J.D. Salinger",
+        "a\u00f1o_publicacion": "1951",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "The Great Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "a\u00f1o_publicacion": "1925",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "To the Lighthouse",
+        "autor": "Virginia Woolf",
+        "a\u00f1o_publicacion": "1927",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "One Hundred Years of Solitude",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "a\u00f1o_publicacion": "1967",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "War and Peace",
+        "autor": "Leo Tolstoy",
+        "a\u00f1o_publicacion": "1869",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "The Odyssey",
+        "autor": "Homer",
+        "a\u00f1o_publicacion": "-800",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "Les Mis\u00e9rables",
+        "autor": "Victor Hugo",
+        "a\u00f1o_publicacion": "1862",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "The Lord of the Rings",
+        "autor": "J.R.R. Tolkien",
+        "a\u00f1o_publicacion": "1954",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "Crime and Punishment",
+        "autor": "Fyodor Dostoevsky",
+        "a\u00f1o_publicacion": "1866",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "The Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "a\u00f1o_publicacion": "1937",
+        "disponible": "True",
+        "unidades": "1"
+    },
+    {
+        "nombre": "The Little Prince",
+        "autor": "Antoine de Saint-Exup\u00e9ry",
+        "a\u00f1o_publicacion": "1943",
+        "disponible": "False",
+        "unidades": "2"
+    },
+    {
+        "nombre": "Harry Potter and the Philosopher's Stone",
+        "autor": "J.K. Rowling",
+        "a\u00f1o_publicacion": "1997",
+        "disponible": "True",
+        "unidades": "2"
+    },
+    {
+        "nombre": "Alice's Adventures in Wonderland",
+        "autor": "Lewis Carroll",
+        "a\u00f1o_publicacion": "1865",
+        "disponible": "True",
+        "unidades": "3"
+    }
+]
+
